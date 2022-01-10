@@ -3,3 +3,4 @@ This repository contains other techniques and methods not covered in the other r
 
 # Techniques:
 * Record Linkage
+* Deploying a Machine Learning Model
