@@ -1,5 +1,5 @@
 # Other-Techniques
-This repository contains other techniques and methods not covered in the other repositories.
+This repository contains other techniques and methods not covered in the other repositories including data collection, preparation, cleaning, processing and visualisation
 
 # Techniques:
 * Record Linkage
