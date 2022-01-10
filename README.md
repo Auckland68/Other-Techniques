@@ -6,6 +6,6 @@ This repository contains other techniques and methods not covered in the other r
 * Deploying a Machine Learning Model
 * Affinity Propagation - Retail sales dataset
 * Webscraping Projects 1 & 2
-* Ensemble Models (Classification and Regression) decision trees using hard and soft voting, bagging and pasting with replacement, Random Forest and Adaboost Regressors and Classifiers:
-* - Bank loan dataset
-* - concrete composition dataset
+* Decision trees and Ensemble models, hard and soft voting, bagging and pasting with replacement, Random Forest and Adaboost Regressors and Classifiers:
+* - Bank loan dataset (classification)
+* - concrete strength based on features dataset (regression)
