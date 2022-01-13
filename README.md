@@ -3,8 +3,8 @@ This repository contains other techniques and methods not covered in the other r
 
 # Techniques:
 * Record Linkage
-* Deploying a Machine Learning Model
+* Machine Learning Model Deploymnent
 * Affinity Propagation - Retail sales dataset
 * Webscraping Projects 1 & 2
-* Data preparation - two notebooks
-* Data visualisation - two notebooks
+* Data preparation (x2)
+* Data visualisation (x2)
