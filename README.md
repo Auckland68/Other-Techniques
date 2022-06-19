@@ -6,5 +6,5 @@ This repository contains other techniques and methods not covered in the other r
 * Machine Learning Model Deploymnent
 * Affinity Propagation - Retail sales dataset
 * Webscraping Projects 1 & 2
-* Data cleaning and preparation (x4)
+* Data cleaning and feature engineering (x4)
 * Data visualisation (x2)
